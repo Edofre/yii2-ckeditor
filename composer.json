@@ -1,0 +1,38 @@
+{
+  "name": "edofre/yii2-ckeditor",
+  "description": "Yii2 widget for ckeditor",
+  "require": {
+    "php": ">=5.5.0",
+    "yiisoft/yii2": "*",
+    "ckeditor/ckeditor": "dev-full/stable"
+  },
+  "keywords": [
+    "editor",
+    "text",
+    "widget",
+    "ckeditor"
+  ],
+  "homepage": "https://github.com/edofre/yii2-ckeditor",
+  "type": "yii2-extension",
+  "license": "MIT",
+  "support": {
+    "source": "https://github.com/edofre/yii2-ckeditor",
+    "issues": "https://github.com/edofre/yii2-ckeditor/issues"
+  },
+  "authors": [
+    {
+      "name": "Edo Freriks",
+      "email": "edofre@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "edofre\\ckeditor\\": ""
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  }
+}
