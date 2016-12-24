@@ -9,7 +9,7 @@ namespace edofre\ckeditor;
 class CoreAsset extends \yii\web\AssetBundle
 {
     /** @var string */
-    public $sourcePath = '@vendor/ckeditor/ckeditor';
+    public $sourcePath = '@bower/ckeditor';
     /** @var array */
     public $js = [
         'ckeditor.js',
