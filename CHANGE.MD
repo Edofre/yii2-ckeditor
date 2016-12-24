@@ -3,7 +3,7 @@ Change Log: `yii2-ckeditor`
 
 ## Version 1.0.1
 
-**Date:** 07-Jun-2016
+**Date:** 24-Dec-2016
 
 - Moved to src dir
 - Updated formatting
