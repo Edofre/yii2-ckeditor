@@ -5,7 +5,7 @@
     "php": ">=5.5.0",
     "yiisoft/yii2": "*",
     "yiisoft/yii2-jui": "*",
-    "ckeditor/ckeditor": "dev-full/stable"
+    "bower-asset/ckeditor": "4.6.1"
   },
   "keywords": [
     "editor",
@@ -28,7 +28,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "edofre\\ckeditor\\": ""
+      "edofre\\ckeditor\\": "src"
     }
   },
   "extra": {
