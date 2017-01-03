@@ -7,13 +7,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 To install, either run
 
 ```
-$ php composer.phar require edofre/yii2-ckeditor "@dev"
+$ php composer.phar require edofre/yii2-ckeditor "V1.0.1"
 ```
 
 or add
 
 ```
-"edofre/yii2-ckeditor": "@dev"
+"edofre/yii2-ckeditor": "V1.0.1"
 ```
 
 to the ```require``` section of your `composer.json` file.
