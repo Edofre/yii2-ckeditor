@@ -5,7 +5,7 @@
     "php": ">=5.5.0",
     "yiisoft/yii2": "*",
     "yiisoft/yii2-jui": "*",
-    "bower-asset/ckeditor": "4.6.1"
+    "bower-asset/ckeditor": "~4.8.0"
   },
   "keywords": [
     "editor",
